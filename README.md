@@ -19,7 +19,7 @@ Built with **Gradio**, the interface offers an interactive web-based experience,
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Python 3**  
 - **Gradio** – UI framework  
 - **Minimax Algorithm with Alpha-Beta Pruning** – for AI logic  
